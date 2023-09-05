@@ -1,0 +1,9 @@
+Hello, everyone.
+I have perfect application to generate activation key using C#.
+This application offers a free trial for a few days for any program and demand activation key automatically  when the trial expires.
+This app consists of two apps: one that demand an activation key and one that generates an activation key.
+Activation keys are generated differently for the machine number according to every user's computer.
+The activation key make the software to work only in that computer not other.
+This app can use perfectly protect of any program.
+I have attached a video file about the operation process of the program.
+If everyone are interested, please contact me.

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS232_NAS100_PLUS_v1_1", "RS232_NAS100_PLUS_v1_1\RS232_NAS100_PLUS_v1_1.csproj", "{96828F1E-48B3-45B7-9C6A-2512BDEC3921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96828F1E-48B3-45B7-9C6A-2512BDEC3921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96828F1E-48B3-45B7-9C6A-2512BDEC3921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96828F1E-48B3-45B7-9C6A-2512BDEC3921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96828F1E-48B3-45B7-9C6A-2512BDEC3921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27764149-F057-41A1-A3CF-EC6B759863C4}
+	EndGlobalSection
+EndGlobal

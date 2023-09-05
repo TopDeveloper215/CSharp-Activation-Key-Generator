@@ -1,0 +1,11 @@
+bin\Debug\Serial Maker.exe
+bin\Debug\Serial Maker.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Serial Maker.csproj.GenerateResource.Cache
+obj\Debug\Serial Maker.exe
+obj\Debug\Serial Maker.pdb
+obj\Debug\Serial_Maker.frmMain.resources
+bin\Debug\SerialBoxes.dll
+bin\Debug\FilterControls.dll
+bin\Debug\FilterControls.pdb
+bin\Debug\SerialBoxes.pdb

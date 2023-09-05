@@ -1,0 +1,46 @@
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+C:\Users\Owner\Desktop\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+C:\Users\Owner\Desktop\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+C:\Users\Owner\Desktop\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.AssemblyReference.cache
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.cache
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.exe.manifest
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.application
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.exe
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.pdb
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.exe.manifest
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.application
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.exe
+O:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.pdb
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.exe.manifest
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.application
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.exe
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\bin\Debug\RS232_NAS_100_Transmitter.pdb
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.exe.manifest
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.application
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.exe
+F:\Visual_Studio\ComputerToArduino\ComputerToArduino\obj\Debug\RS232_NAS_100_Transmitter.pdb

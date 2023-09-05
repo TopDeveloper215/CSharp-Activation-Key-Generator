@@ -1,0 +1,16 @@
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\bin\Release\RS232_NAS100_PLUS_v1_1.exe.config
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\bin\Release\RS232_NAS100_PLUS_v1_1.exe
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\bin\Release\RS232_NAS100_PLUS_v1_1.pdb
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\bin\Release\FilterControls.dll
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\bin\Release\SerialBoxes.dll
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\bin\Release\SoftwareLocker.dll
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.csproj.AssemblyReference.cache
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.csproj.SuggestedBindingRedirects.cache
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.Form1.resources
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.Properties.Resources.resources
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.csproj.GenerateResource.cache
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.csproj.CoreCompileInputs.cache
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.csproj.CopyComplete
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.exe
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\obj\Release\RS232_NAS100_PLUS_v1_1.pdb
+E:\Works\C#-RS232\RS232_complete\RS232_NAS100_PLUS_v1_1\bin\Release\SoftwareLocker.pdb

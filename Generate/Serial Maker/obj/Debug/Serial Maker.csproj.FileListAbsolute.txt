@@ -1,0 +1,13 @@
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\bin\Debug\SerialBoxes.dll
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\bin\Debug\FilterControls.dll
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\bin\Debug\SerialBoxes.pdb
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\bin\Debug\FilterControls.pdb
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.AssemblyReference.cache
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.GenerateResource.cache
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.CoreCompileInputs.cache
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\obj\Debug\Serial Maker.csproj.CopyComplete
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\bin\Debug\Generate.exe
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\bin\Debug\Generate.pdb
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\obj\Debug\Serial_Maker.Form1.resources
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\obj\Debug\Generate.exe
+E:\Works\C#-RS232\New folder\Serial Maker\Serial Maker\obj\Debug\Generate.pdb
